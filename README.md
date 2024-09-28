@@ -11,8 +11,8 @@ The dataset includes sales data with information about products, customers, date
 In Power BI Projects, SQL-like queries can be formulated using Power Query. Sample queries include aggregating sales by product, calculating total revenue, and grouping data by periods (months, quarters).
 
 **Insights and Findings**
-Through data visualization, trends in sales can be identified, such as seasonal spikes or slumps. The revenue distribution showcases which products are top performers and which might need strategic attention. Insights might reveal that certain products are consistently popular while others experience fluctuations in demand.
-------------------------------------------------------------------------------------------------------------------------------------------
+**Through data visualization, trends in sales can be identified, such as seasonal spikes or slumps. The revenue distribution showcases which products are top performers and which might need strategic attention. Insights might reveal that certain products are consistently popular while others experience fluctuations in demand.
+******------------------------------------------------------------------------------------------------------------------------------------------
 Slicer (Filter) - Q1
 ![image](https://github.com/user-attachments/assets/85055c69-13ad-4f72-89d7-e1f6a8cca704)
 
